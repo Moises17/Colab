@@ -30,4 +30,4 @@ Para que WCAG 2.1 seja executada de forma correta, é necessário a aplicação 
 3.	Critérios de Sucesso: Esta camada é responsável por identificar em cada diretriz o que deve ser alcançado, para que o conteúdo digital possa estar em conformidade com este padrão. Ao todo são 78 critérios de sucesso [W3C, 2018].
 
 Técnicas de tipo necessária e de tipo sugerida: São métodos utilizados por autores e avaliadores para atender aos critérios de sucesso da WCAG, que
- a segunda admissão fica com CHAPA
+ 
